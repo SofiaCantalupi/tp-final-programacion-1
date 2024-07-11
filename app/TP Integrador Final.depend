@@ -1,0 +1,417 @@
+# depslib dependency file v1.0
+1718690824 source:c:\users\franc\onedrive\escritorio\tp integrador final\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1718696242 source:c:\users\franc\onedrive\escritorio\tp integrador final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu_caja.h"
+	"menu_gestion_productos.h"
+	"menu_gestion_productos_Stock.h"
+	"menu_gestion_ventas.h"
+	"menu_principal_ADMIN.h"
+	"menu_usuarios.h"
+	"empleado.h"
+	"verificacion.h"
+	"articulos.h"
+	"caja.h"
+	"fecha.h"
+	"pila.h"
+	"ventas.h"
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\menu_caja.h
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\menu_gestion_productos.h
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\menu_gestion_productos_stock.h
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\menu_gestion_ventas.h
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\menu_principal_admin.h
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\menu_usuarios.h
+
+1718688204 c:\users\franc\onedrive\escritorio\tp integrador final\empleado.h
+
+1718695046 c:\users\franc\onedrive\escritorio\tp integrador final\verificacion.h
+	"empleado.h"
+
+1718722216 c:\users\franc\onedrive\escritorio\tp integrador final\articulos.h
+
+1718688204 c:\users\franc\onedrive\escritorio\tp integrador final\caja.h
+	"time.h"
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\fecha.h
+
+1718688206 c:\users\franc\onedrive\escritorio\tp integrador final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718689248 c:\users\franc\onedrive\escritorio\tp integrador final\ventas.h
+
+1718722216 source:c:\users\franc\onedrive\escritorio\tp integrador final\articulos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"articulos.h"
+
+1718695524 source:c:\users\franc\onedrive\escritorio\tp integrador final\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"caja.h"
+	"articulos.h"
+	"ventas.h"
+	"fecha.h"
+	"verificacion.h"
+
+1718716634 source:c:\users\franc\onedrive\escritorio\tp integrador final\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1718690714 source:c:\users\franc\onedrive\escritorio\tp integrador final\menu_caja.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_caja.h"
+	"caja.h"
+
+1718722354 source:c:\users\franc\onedrive\escritorio\tp integrador final\menu_gestion_productos.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_productos.h"
+	"articulos.h"
+
+1718688206 source:c:\users\franc\onedrive\escritorio\tp integrador final\menu_gestion_productos_stock.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_productos_Stock.h"
+	"articulos.h"
+	"menu_gestion_productos.h"
+
+1718698186 source:c:\users\franc\onedrive\escritorio\tp integrador final\menu_gestion_ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_ventas.h"
+	"caja.h"
+
+1718717261 source:c:\users\franc\onedrive\escritorio\tp integrador final\menu_principal_admin.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_principal_ADMIN.h"
+
+1718717260 source:c:\users\franc\onedrive\escritorio\tp integrador final\menu_principal_usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_principal_ADMIN.h"
+
+1718721050 source:c:\users\franc\onedrive\escritorio\tp integrador final\menu_usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_usuarios.h"
+	"empleado.h"
+
+1718688206 source:c:\users\franc\onedrive\escritorio\tp integrador final\pila.c
+	"pila.h"
+
+1718719115 source:c:\users\franc\onedrive\escritorio\tp integrador final\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"articulos.h"
+	"ventas.h"
+	"caja.h"
+
+1718695046 source:c:\users\franc\onedrive\escritorio\tp integrador final\verificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1718664507 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\articulos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"articulos.h"
+
+1718660271 c:\users\lenovo\documents\utn\programación i\tp integrador final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718664349 c:\users\lenovo\documents\utn\programación i\tp integrador final\articulos.h
+
+1718665039 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"caja.h"
+	"articulos.h"
+	"ventas.h"
+	"fecha.h"
+
+1718664855 c:\users\lenovo\documents\utn\programación i\tp integrador final\caja.h
+	"time.h"
+
+1718665190 c:\users\lenovo\documents\utn\programación i\tp integrador final\ventas.h
+
+1718660271 c:\users\lenovo\documents\utn\programación i\tp integrador final\fecha.h
+
+1718666410 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1718664265 c:\users\lenovo\documents\utn\programación i\tp integrador final\empleado.h
+
+1718660271 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1718663140 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu_caja.h"
+	"menu_gestion_productos.h"
+	"menu_gestion_productos_Stock.h"
+	"menu_gestion_ventas.h"
+	"menu_principal_ADMIN.h"
+	"menu_usuarios.h"
+	"empleado.h"
+	"verificacion.h"
+	"articulos.h"
+	"caja.h"
+	"fecha.h"
+	"pila.h"
+	"ventas.h"
+
+1718660271 c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_caja.h
+
+1718660271 c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_gestion_productos.h
+
+1718660271 c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_gestion_productos_stock.h
+
+1718660271 c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_gestion_ventas.h
+
+1718663120 c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_principal_admin.h
+
+1718663839 c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_usuarios.h
+
+1718662166 c:\users\lenovo\documents\utn\programación i\tp integrador final\verificacion.h
+	"empleado.h"
+
+1718660271 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_caja.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_caja.h"
+	"caja.h"
+
+1718660271 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_gestion_productos.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_productos.h"
+	"articulos.h"
+
+1718660271 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_gestion_productos_stock.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_productos_Stock.h"
+	"articulos.h"
+	"menu_gestion_productos.h"
+
+1718660271 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_gestion_ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_ventas.h"
+	"caja.h"
+
+1718666118 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_principal_admin.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_principal_ADMIN.h"
+
+1718666123 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_principal_usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_principal_ADMIN.h"
+
+1718662509 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\menu_usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_usuarios.h"
+	"empleado.h"
+
+1718660271 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\pila.c
+	"pila.h"
+
+1718664722 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"articulos.h"
+	"ventas.h"
+
+1718663032 source:c:\users\lenovo\documents\utn\programación i\tp integrador final\verificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1718685440 source:c:\users\lenovo\desktop\tp integrador final\articulos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"articulos.h"
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718685465 c:\users\lenovo\desktop\tp integrador final\articulos.h
+
+1718687505 source:c:\users\lenovo\desktop\tp integrador final\caja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"caja.h"
+	"articulos.h"
+	"ventas.h"
+	"fecha.h"
+
+1718680345 c:\users\lenovo\desktop\tp integrador final\caja.h
+	"time.h"
+
+1718681532 c:\users\lenovo\desktop\tp integrador final\ventas.h
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\fecha.h
+
+1718679712 source:c:\users\lenovo\desktop\tp integrador final\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\empleado.h
+
+1718679712 source:c:\users\lenovo\desktop\tp integrador final\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1718679712 source:c:\users\lenovo\desktop\tp integrador final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu_caja.h"
+	"menu_gestion_productos.h"
+	"menu_gestion_productos_Stock.h"
+	"menu_gestion_ventas.h"
+	"menu_principal_ADMIN.h"
+	"menu_usuarios.h"
+	"empleado.h"
+	"verificacion.h"
+	"articulos.h"
+	"caja.h"
+	"fecha.h"
+	"pila.h"
+	"ventas.h"
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\menu_caja.h
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\menu_gestion_productos.h
+
+1718685459 c:\users\lenovo\desktop\tp integrador final\menu_gestion_productos_stock.h
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\menu_gestion_ventas.h
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\menu_principal_admin.h
+
+1718679712 c:\users\lenovo\desktop\tp integrador final\menu_usuarios.h
+
+1718679713 c:\users\lenovo\desktop\tp integrador final\verificacion.h
+	"empleado.h"
+
+1718686631 source:c:\users\lenovo\desktop\tp integrador final\menu_caja.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_caja.h"
+	"caja.h"
+
+1718684789 source:c:\users\lenovo\desktop\tp integrador final\menu_gestion_productos.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_productos.h"
+	"articulos.h"
+
+1718685451 source:c:\users\lenovo\desktop\tp integrador final\menu_gestion_productos_stock.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_productos_Stock.h"
+	"articulos.h"
+	"menu_gestion_productos.h"
+
+1718685774 source:c:\users\lenovo\desktop\tp integrador final\menu_gestion_ventas.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_gestion_ventas.h"
+	"caja.h"
+
+1718681350 source:c:\users\lenovo\desktop\tp integrador final\menu_principal_admin.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_principal_ADMIN.h"
+
+1718681383 source:c:\users\lenovo\desktop\tp integrador final\menu_principal_usuario.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_principal_ADMIN.h"
+
+1718683138 source:c:\users\lenovo\desktop\tp integrador final\menu_usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"menu_usuarios.h"
+	"empleado.h"
+
+1718679712 source:c:\users\lenovo\desktop\tp integrador final\pila.c
+	"pila.h"
+
+1718684143 source:c:\users\lenovo\desktop\tp integrador final\ventas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"pila.h"
+	"articulos.h"
+	"ventas.h"
+
+1718679713 source:c:\users\lenovo\desktop\tp integrador final\verificacion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+

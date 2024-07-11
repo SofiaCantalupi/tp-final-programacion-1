@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ventas.h": "c",
+        "empleado.h": "c",
+        "menu_principal_admin.h": "c"
+    }
+}
